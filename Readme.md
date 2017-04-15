@@ -5,3 +5,7 @@
 그래서 언어 변경같은 귀찮은 기능은 없어요
 
 ![사용예](/screenshots/example.png)
+
+## 하지만 Foxit Reader가 이걸 또 해냅니다
+
+![떼믿](/screenshots/but.png)
